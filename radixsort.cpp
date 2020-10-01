@@ -1,4 +1,4 @@
-// C++ implementation of Radix Sort
+// C++ implementation of Radix Sot
 #include <iostream>
 using namespace std;
  
